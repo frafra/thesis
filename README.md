@@ -1,6 +1,6 @@
 # About
 
-This is my master thesis in geoinformatics engineering. It is available as [PDF](https://frafra.eu/files/Frassinelli_thesis.pdf) as well. It has been archived and made available at the [digital library of Politecnico di Milano](https://www.politesi.polimi.it/handle/10589/190425).
+This is my master thesis in geoinformatics engineering about the evaluation of OpenStreetMap intrinsic temporal accuracy and up-to-dateness using historical data. It is available as [PDF](https://frafra.eu/files/Frassinelli_thesis.pdf) as well. It has been archived and made available at the [digital library of Politecnico di Milano](https://www.politesi.polimi.it/handle/10589/190425).
 
 The software is available at [is-osm-uptodate.frafra.eu](https://is-osm-uptodate.frafra.eu) and its source code is published at [github.com/frafra/is-osm-uptodate](https://github.com/frafra/is-osm-uptodate).
 
